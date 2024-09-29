@@ -71,5 +71,5 @@ The application uses **jSerialComm** to manage serial communication, with robust
 - Run the React app script for frontend presentation of the collected data (See folder “`frontend`”).
 
 ## ER Diagram
+![ER Diagram](https://github.com/user-attachments/assets/a5b089a0-b2a3-4360-9bb3-40bd3034eb29)
 
-![Application Screenshot](resources/ER%20Diagram.png)
